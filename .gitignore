@@ -1,0 +1,40 @@
+# Model files (too large for GitHub)
+*.pkl
+
+# Excel files (we already have CSV)
+*.xls
+*.xlsx
+
+# Personal documentation
+*.pdf
+New_Microsoft_Word_Document*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/

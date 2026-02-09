@@ -47,7 +47,7 @@ An intelligent Machine Learning system that helps farmers make data-driven decis
 
 ### Live Application Demo
 
-**[▶️ Watch Full Demo Video](https://drive.google.com/file/d/1cp6VjpVzi3dr5AxhZcMVuchu2C_8d841/view?usp=sharing)**
+**[▶️ Watch Full Demo Video](https://drive.google.com/file/d/1OnswVdfdDaPy_WMC0Onor5Va_zr72Tr0/view?usp=sharing)**
 
 <div align="center">
   <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing">

@@ -47,14 +47,20 @@ An intelligent Machine Learning system that helps farmers make data-driven decis
 
 ### Live Application Demo
 
-![App Demo](demo/app_demo.gif)
+**[▶️ Watch Full Demo Video](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)**
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️_Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
+  </a>
+</div>
 
 ### How It Works
 
 1. **Input soil nutrients** - Adjust nitrogen, phosphorus, and potassium levels
 2. **Set climate conditions** - Configure temperature, humidity, and rainfall
 3. **Get instant recommendation** - Click the button to receive crop predictions
-4. **View results** - See the recommended crop with confidence score and top 3 alternatives
+4. **View results** - See the recommended crop with confidence score and top alternatives
 
 ---
 

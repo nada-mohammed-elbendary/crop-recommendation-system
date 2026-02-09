@@ -47,12 +47,16 @@ An intelligent Machine Learning system that helps farmers make data-driven decis
 
 ### Live Application Demo
 
-**[▶️ Watch Full Demo Video](https://drive.google.com/file/d/1OnswVdfdDaPy_WMC0Onor5Va_zr72Tr0/view?usp=sharing)**
-
 <div align="center">
-  <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶️_Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
-  </a>
+
+**[▶️ Watch Full Demo Video on Google Drive](https://drive.google.com/file/d/1OnswVdfdDaPy_WMC0Onor5Va_zr72Tr0/preview)**
+
+<a href="https://drive.google.com/file/d/1OnswVdfdDaPy_WMC0Onor5Va_zr72Tr0/preview" target="_blank">
+  <img src="https://img.shields.io/badge/▶️_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Demo Video"/>
+</a>
+
+*Click the button above to watch the application demo*
+
 </div>
 
 ### How It Works

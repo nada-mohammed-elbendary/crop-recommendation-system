@@ -257,27 +257,6 @@ crop-recommendation-system/
 
 ---
 
-## 📝 Important Notes
-
-### ⚠️ Model Files
-
-The following files are **NOT uploaded** to GitHub due to their large size:
-
-```
-❌ best_crop_model.pkl
-❌ label_encoder.pkl
-❌ feature_names.pkl
-```
-
-**Solution**: Run the Jupyter Notebook to generate these files
-
-```bash
-jupyter notebook crop_recommendation_analysis.ipynb
-# Run all cells → Files will be created automatically
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
